@@ -7,5 +7,7 @@ namespace BorrowLend
 {
     public class ExpenseType
     {
+        int Id;
+        string ExpenseTypeName;
     }
 }
